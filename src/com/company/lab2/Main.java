@@ -1,5 +1,9 @@
 package com.company.lab2;
 
+import com.company.lab2.hierarhicalinheritance.Frigider;
+import com.company.lab2.hierarhicalinheritance.Televizor;
+import com.company.lab2.singleinheritance.Dictionar;
+
 public class Main {
 
     public static void main(String[] args) {

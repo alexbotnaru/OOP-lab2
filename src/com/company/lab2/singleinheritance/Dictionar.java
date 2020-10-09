@@ -1,4 +1,6 @@
-package com.company.lab2;
+package com.company.lab2.singleinheritance;
+
+import com.company.lab2.singleinheritance.Carte;
 
 public class Dictionar extends Carte {
     private String tipul;

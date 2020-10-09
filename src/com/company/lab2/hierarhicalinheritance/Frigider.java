@@ -1,4 +1,4 @@
-package com.company.lab2;
+package com.company.lab2.hierarhicalinheritance;
 
 public class Frigider extends Electrocasnice {
     private String marca;

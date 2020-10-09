@@ -1,4 +1,4 @@
-package com.company.lab2;
+package com.company.lab2.singleinheritance;
 
 public class Carte {
     private String denumirea;
